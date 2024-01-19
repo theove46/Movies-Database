@@ -30,9 +30,7 @@ The Movies Database App leverages the following technologies:
 
 <span>
   <img width="200" src="https://github.com/theove46/Movies-Database-iOS/assets/57717227/6f752cad-42f0-4056-b167-7fb61812cf64">
-  <img width="200" src="![Simulator Screenshot - iPhone 15 Pro - 2024-01-19 at 18 19 28](https://github.com/theove46/Movies-Database-iOS/assets/57717227/88aee8f4-20c0-4246-9faf-fd956778c6a8)">
-  <img width="200" src="https://user-images.githubusercontent.com/57717227/232985127-7a940280-c0c5-4a1f-9809-1a62737c5004.png">
-  <img width="200" src="https://user-images.githubusercontent.com/57717227/232985257-7d9674c1-6d17-42d9-ab25-d5724c2011b7.png">
+  <img width="200" src="https://github.com/theove46/Movies-Database-iOS/assets/57717227/88aee8f4-20c0-4246-9faf-fd956778c6a8">
 </span>
 
 
