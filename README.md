@@ -20,10 +20,10 @@ The Movies Database App is your go-to platform for discovering and exploring an 
 ## Technology Used
 
 The Movies Database App leverages the following technologies:
-**Swift Programming Language**: The app is developed using Swift, ensuring a robust and modern codebase.
-**UIKit Framework**: UIKit is the backbone of the app's UI, providing a reliable foundation for building engaging interfaces.
-**RESTful API Integration**: Connect with external movie databases to fetch real-time data, ensuring an up-to-date movie collection.
-**Asynchronous Programming**: Employ asynchronous programming techniques to enhance app responsiveness.
+- **Swift Programming Language**: The app is developed using Swift, ensuring a robust and modern codebase.
+- **UIKit Framework**: UIKit is the backbone of the app's UI, providing a reliable foundation for building engaging interfaces.
+- **RESTful API Integration**: Connect with external movie databases to fetch real-time data, ensuring an up-to-date movie collection.
+- **Asynchronous Programming**: Employ asynchronous programming techniques to enhance app responsiveness.
 
 
 ## Screenshots
